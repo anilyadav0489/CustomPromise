@@ -1,0 +1,16 @@
+{
+  "name": "my-own-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Anil Yadav",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
